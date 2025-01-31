@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Node.js nima?",
+        "option": ["Brauzer uchun JavaScript framework", "Server tomonida ishlaydigan JavaScript muhit", "Python kutubxonasi"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js qaysi dvijokka asoslangan?",
+        "option": ["V8", "SpiderMonkey", "Chakra"],
+        "answer": 0
+    },
+    {
+        "question": "Node.js da qaysi modul asinxron fayl tizimini boshqarish uchun ishlatiladi?",
+        "option": ["http", "fs", "url"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js ning asosiy modullaridan biri bu ...?",
+        "option": ["react", "events", "django"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js da http modulining vazifasi nima?",
+        "option": ["HTML sahifalarni yaratish", "Server yaratish va HTTP so‘rovlarini qayta ishlash", "Fayl tizimini boshqarish"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js qanday arxitekturaga asoslangan?",
+        "option": ["Bloklovchi, bir martalik ishlov berish", "Bloklovchi, ko‘p tarmoqli ishlov berish", "Bloklamaydigan, voqealarga asoslangan ishlov berish"],
+        "answer": 2
+    },
+    {
+        "question": "Node.js da qaysi modul URL manzillarni tahlil qilish uchun ishlatiladi?",
+        "option": ["fs", "url", "crypto"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js da global obyektlar qaysi qatorda to‘g‘ri berilgan?",
+        "option": ["window, document", "console, process", "DOM, BOM"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js qanday fayl kengaytmasiga ega skriptlarni ishga tushiradi?",
+        "option": [".html", ".js", ".node"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js da qaysi buyruq orqali paketlarni o‘rnatish mumkin?",
+        "option": ["node install", "npm install", "npx install"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js da 'events' moduli qanday maqsadda ishlatiladi?",
+        "option": ["Fayllar bilan ishlash", "Vazifalarni bajarish", "Voqealar bilan ishlash"],
+        "answer": 2
+    },
+    {
+        "question": "Node.js da 'require()' funktsiyasi nima qiladi?",
+        "option": ["Modulni chaqiradi", "Fayl o‘qiydi", "HTTP so‘rov yuboradi"],
+        "answer": 0
+    },
+    {
+        "question": "Node.js da asinxron kod qanday bajariladi?",
+        "option": ["setTimeout orqali", "Callback, Promises yoki Async/Await orqali", "faqatgina sync usulda"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js da 'path' moduli nima uchun ishlatiladi?",
+        "option": ["Fayl yo‘llari bilan ishlash uchun", "Ma’lumotlarni shifrlash uchun", "Brauzer uchun sahifalar yaratish uchun"],
+        "answer": 0
+    },
+    {
+        "question": "Node.js da qaysi modul ma’lumotlarni shifrlash uchun ishlatiladi?",
+        "option": ["fs", "crypto", "dns"],
+        "answer": 1
+    },
+    {
+        "question": "Node.js da 'process' global obyektining vazifasi nima?",
+        "option": ["Joriy jarayon haqida ma’lumot berish", "Fayl tizimlarini boshqarish", "Tarmoqli ulanishlarni o‘rnatish"],
+        "answer": 0
+    },
+    {
+        "question": "Node.js da qanday modul TCP server yaratish uchun ishlatiladi?",
+        "option": ["net", "http", "dns"],
+        "answer": 0
+    },
+    {
+        "question": "Node.js qanday ma’lumotlar bazasi bilan ishlash uchun mos?",
+        "option": ["SQL Server", "MongoDB", "Ikkalasi ham"],
+        "answer": 2
+    },
+    {
+        "question": "Node.js da 'os' moduli nima uchun ishlatiladi?",
+        "option": ["Operatsion tizim haqidagi ma’lumotlarni olish uchun", "HTTP server yaratish uchun", "Ma’lumotlarni saqlash uchun"],
+        "answer": 0
+    },
+    {
+        "question": "Node.js da 'stream' nima uchun ishlatiladi?",
+        "option": ["Fayl oqimlari bilan ishlash", "Ma’lumotlarni shifrlash", "Tarmoqni sozlash"],
+        "answer": 0
+    }
+]
